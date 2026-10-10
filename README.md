@@ -1,73 +1,42 @@
 # 👋 Hi, I'm Stepan
 
-I'm a Computer Science student at **HSE University – Nizhny Novgorod**, interested in backend development and software engineering.
+Computer Science student at **HSE University – Nizhny Novgorod**.
 
-My primary focus is **Go and web application development**. I'm currently deepening my knowledge of HTTP, API design, databases, software architecture, and testing, while also working with Python and improving my understanding of algorithms and data structures.
+I'm interested in backend development, software engineering, and building reliable applications. Currently, I'm focusing on **Go**, exploring API design, databases, testing, and software architecture.
 
-I enjoy building practical projects and exploring how to design reliable, maintainable software.
+## 🧰 Tech Stack
 
-## 🛠️ Tech Stack
+**Languages**
 
-**Languages:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Backend & CS:**  
-![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-455A64?style=flat)
-![Concurrency](https://img.shields.io/badge/Concurrency-3949AB?style=flat)
-![Async Programming](https://img.shields.io/badge/Async_Programming-7E57C2?style=flat)
-![Algorithms & Data Structures](https://img.shields.io/badge/Algorithms_&_Data_Structures-6A5ACD?style=flat)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)
+**Backend Development**
 
-**Databases & Testing:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Go Testing](https://img.shields.io/badge/Go_Testing-00ADD8?style=flat&logo=go&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+REST APIs · HTTP · JSON · Database Integration · Clean Architecture
 
-**Frontend & Tools:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Databases & Testing**
+
+PostgreSQL · MySQL · Unit Testing · pytest
+
+**Tools & Environment**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=222222)
 
-## 🚀 Featured Projects
+**Computer Science**
 
-<div align="center">
-  <a href="https://github.com/sseusti/PingMonitorService">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sseusti&repo=PingMonitorService&theme=default&border_color=D1D5DB" width="49%" alt="PingMonitorService" />
-  </a>
-  <a href="https://github.com/sseusti/MiniJira">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sseusti&repo=MiniJira&theme=default&border_color=D1D5DB" width="49%" alt="MiniJira" />
-  </a>
-  <a href="https://github.com/sseusti/digit_recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sseusti&repo=digit_recognition&theme=default&border_color=D1D5DB" width="49%" alt="Digit Recognition" />
-  </a>
-  <a href="https://github.com/sseusti/python_homework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sseusti&repo=python_homework&theme=default&border_color=D1D5DB" width="49%" alt="Python Homework" />
-  </a>
-</div>
+Algorithms & Data Structures · Concurrency · Asynchronous Programming
 
-## 📫 Contact Me
+**Also familiar with:** HTML · CSS · JavaScript
 
-<p align="left">
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-808080?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-808080?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-808080?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://vk.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/VK-808080?style=flat&logo=vk&logoColor=white" alt="VK" />
-  </a>
+## 📫 Contact
+
+<p>
+  <a href="https://github.com/sseusti"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://vk.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=white" alt="VK" /></a>
 </p>
