@@ -37,3 +37,37 @@ I enjoy building practical projects and exploring how to design reliable, mainta
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/sseusti/PingMonitorService">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sseusti&repo=PingMonitorService&theme=default&border_color=D1D5DB" width="49%" alt="PingMonitorService" />
+  </a>
+  <a href="https://github.com/sseusti/MiniJira">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sseusti&repo=MiniJira&theme=default&border_color=D1D5DB" width="49%" alt="MiniJira" />
+  </a>
+  <a href="https://github.com/sseusti/digit_recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sseusti&repo=digit_recognition&theme=default&border_color=D1D5DB" width="49%" alt="Digit Recognition" />
+  </a>
+  <a href="https://github.com/sseusti/python_homework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sseusti&repo=python_homework&theme=default&border_color=D1D5DB" width="49%" alt="Python Homework" />
+  </a>
+</div>
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-808080?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-808080?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-808080?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://vk.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/VK-808080?style=flat&logo=vk&logoColor=white" alt="VK" />
+  </a>
+</p>
