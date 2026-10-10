@@ -30,7 +30,7 @@ PostgreSQL · MySQL · Unit Testing · pytest
 
 Algorithms & Data Structures · Concurrency · Asynchronous Programming
 
-**Also familiar with:** HTML · CSS · JavaScript
+**Also familiar with:** HTML · CSS · JavaScript · Java · C
 
 ## 📫 Contact
 
